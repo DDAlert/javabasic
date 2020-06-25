@@ -15,6 +15,6 @@ public class IsPalindrome {
             x/=10;
         }
         return x == p || x == p/10;
-        //sfadf
+        //sfadfdsafdsdf
     }
 }
